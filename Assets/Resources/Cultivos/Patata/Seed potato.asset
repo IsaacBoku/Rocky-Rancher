@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5575b124cf2a9934890fb7f6ba045bf9, type: 3}
+  m_Name: Seed potato
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Seed potato
+  icon: {fileID: -637921282, guid: cf9e7f99fdab87a40b4de299a04ed34a, type: 3}
+  gameModel: {fileID: 0}
+  dropChance: 0
+  cost: 25
+  equipmentType: 3
+  itemCooldown: 0
+  itemEffects: []
+  itemEffectDescription: Seed potatoes grow every 6 days and then continue to bear
+    fruit after 3 days.
+  toolType: 0
+  strength: 0
+  agility: 0
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  health: 0
+  armor: 0
+  evasion: 0
+  craftingMaterials: []
+  daysToGrow: 6
+  cropsToYield: {fileID: 11400000, guid: 595500603f815824bb90188ad70067d6, type: 2}
+  seedling: {fileID: 5181256197910338903, guid: 478d228fa898f36429389fd1cb36a013,
+    type: 3}
+  regrowable: 1
+  dayToRegrow: 3

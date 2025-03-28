@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e0250a6ea94c8c48b963849e749d394, type: 3}
+  m_Name: Plant_Berejena
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: 
+  icon: {fileID: 0}
+  gameModel: {fileID: 8331619534241575759, guid: 81767cf005c5fcb4ab30911296aa794b,
+    type: 3}
+  dropChance: 0
+  cost: 0

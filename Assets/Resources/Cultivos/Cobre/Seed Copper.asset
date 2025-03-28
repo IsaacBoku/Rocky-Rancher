@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5575b124cf2a9934890fb7f6ba045bf9, type: 3}
+  m_Name: Seed Copper
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Copper seed
+  icon: {fileID: 1603733661, guid: c8a28efe7c968474d9d283f6d35ccf1b, type: 3}
+  gameModel: {fileID: 0}
+  dropChance: 0
+  cost: 500
+  equipmentType: 3
+  itemCooldown: 0
+  itemEffects: []
+  itemEffectDescription: Copper seed grows every 2 days
+  toolType: 0
+  strength: 0
+  agility: 0
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  health: 0
+  armor: 0
+  evasion: 0
+  craftingMaterials: []
+  daysToGrow: 2
+  cropsToYield: {fileID: 11400000, guid: 77d238bd6cb8aeb4e8a6f307e172d2d7, type: 2}
+  seedling: {fileID: 1763327121999242563, guid: d5f4055825e12484bbadff9e0e6910fe,
+    type: 3}
+  regrowable: 0
+  dayToRegrow: 0

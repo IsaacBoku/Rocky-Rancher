@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1567ea42282440640aaf16552a0f329e, type: 3}
+  m_Name: Rutina_Sigrid
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: 448c38eca4bd9bf4a8c4e0f61154fce4, type: 2}
+  npcScheduleList:
+  - name: Home_salida
+    time:
+      year: 0
+      season: 0
+      day: 0
+      hour: 7
+      minute: 0
+    dayOfTheWeek: 1
+    priority: 0
+    factorDate: 0
+    ignoreDayOfTheWeek: 1
+    locations: 1
+    coord: {x: -39.45, y: 2.95, z: -176.15}
+    facing: {x: 0, y: 90, z: 0}
+  - name: "2\xBAubicacion_Sigrid"
+    time:
+      year: 0
+      season: 0
+      day: 0
+      hour: 8
+      minute: 0
+    dayOfTheWeek: 1
+    priority: 0
+    factorDate: 0
+    ignoreDayOfTheWeek: 1
+    locations: 1
+    coord: {x: -6.35, y: 2.95, z: -183.85}
+    facing: {x: 0, y: 90, z: 0}
+  - name: "3\xBAUbicacion_Sigrid"
+    time:
+      year: 0
+      season: 0
+      day: 0
+      hour: 9
+      minute: 0
+    dayOfTheWeek: 1
+    priority: 0
+    factorDate: 0
+    ignoreDayOfTheWeek: 1
+    locations: 1
+    coord: {x: 0.64, y: 2.95, z: -232.32}
+    facing: {x: 0, y: -180, z: 0}
+  - name: "4\xBAUbicacion_Sigrid"
+    time:
+      year: 0
+      season: 0
+      day: 0
+      hour: 10
+      minute: 0
+    dayOfTheWeek: 1
+    priority: 0
+    factorDate: 0
+    ignoreDayOfTheWeek: 1
+    locations: 1
+    coord: {x: 27.7, y: 2.95, z: -232.17}
+    facing: {x: 0, y: 0, z: 0}
+  - name: "5\xBAUbicacion_Sigrid"
+    time:
+      year: 0
+      season: 0
+      day: 0
+      hour: 10
+      minute: 0
+    dayOfTheWeek: 1
+    priority: 0
+    factorDate: 0
+    ignoreDayOfTheWeek: 1
+    locations: 1
+    coord: {x: 44.79, y: 2.95, z: -191.96}
+    facing: {x: 0, y: 0, z: 0}

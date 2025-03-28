@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1567ea42282440640aaf16552a0f329e, type: 3}
+  m_Name: Rutinas_Edvard
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: 24fe36a377f562b4fa94d5b56fa6fb89, type: 2}
+  npcScheduleList:
+  - name: thuesday
+    time:
+      year: 0
+      season: 0
+      day: 0
+      hour: 6
+      minute: 0
+    dayOfTheWeek: 1
+    priority: 1
+    factorDate: 0
+    ignoreDayOfTheWeek: 1
+    locations: 1
+    coord: {x: 6.65, y: 3.00724, z: -187.0377}
+    facing: {x: 0, y: -135.275, z: 0}
+  - name: Monday Morning
+    time:
+      year: 0
+      season: 0
+      day: 0
+      hour: 8
+      minute: 0
+    dayOfTheWeek: 2
+    priority: 1
+    factorDate: 0
+    ignoreDayOfTheWeek: 1
+    locations: 1
+    coord: {x: 43.72, y: 2.95, z: -185.71}
+    facing: {x: 0, y: -135.6, z: 0}
+  - name: Casa_edvard
+    time:
+      year: 0
+      season: 0
+      day: 0
+      hour: 14
+      minute: 0
+    dayOfTheWeek: 1
+    priority: 1
+    factorDate: 0
+    ignoreDayOfTheWeek: 1
+    locations: 0
+    coord: {x: 34.99, y: 2.95, z: -187.95}
+    facing: {x: 0, y: -34.62, z: 0}
+  - name: farm_low
+    time:
+      year: 0
+      season: 0
+      day: 0
+      hour: 16
+      minute: 0
+    dayOfTheWeek: 2
+    priority: 1
+    factorDate: 0
+    ignoreDayOfTheWeek: 1
+    locations: 0
+    coord: {x: 63.4, y: 2.95, z: 46.65}
+    facing: {x: 0, y: 0, z: 0}

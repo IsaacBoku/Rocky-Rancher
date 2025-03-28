@@ -1,0 +1,34 @@
+{
+    "name": "Control_player",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "f9ddf90a-0a85-4584-8b6d-7f2c5f6e19c2",
+            "actions": [
+                {
+                    "name": "Roll",
+                    "type": "Button",
+                    "id": "aa90727a-de92-4b26-8f21-56f60c9bec29",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "02b92952-6448-43cb-8695-6699e8884f7e",
+                    "path": "<XInputController>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Roll",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e0250a6ea94c8c48b963849e749d394, type: 3}
+  m_Name: Plant_Copper
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: 
+  icon: {fileID: 0}
+  gameModel: {fileID: 5562324933763147796, guid: d6365daba133e7d4986e9b26e7b62029,
+    type: 3}
+  dropChance: 0
+  cost: 0

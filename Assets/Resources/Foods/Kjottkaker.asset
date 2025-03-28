@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dc4ebe7c24b0d74aaf64e1a5e68653a, type: 3}
+  m_Name: Kjottkaker
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: Kjottkaker
+  icon: {fileID: 107522722, guid: 7fc58374d56f1e5489ee609c81391877, type: 3}
+  gameModel: {fileID: 0}
+  dropChance: 0
+  cost: 0
+  equipmentType: 4
+  itemCooldown: 0
+  itemEffects: []
+  itemEffectDescription: 
+  toolType: 0
+  strength: 0
+  agility: 0
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  health: 0
+  armor: 0
+  evasion: 0
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: 1c766327562498c46bd077a6219e35b2, type: 2}
+    stackSize: 3
+  - data: {fileID: 11400000, guid: 230bdef32abb52e4b877603374bb195e, type: 2}
+    stackSize: 1
+  - data: {fileID: 11400000, guid: 4cf602c78264a1a418923abd9ccd080e, type: 2}
+    stackSize: 1

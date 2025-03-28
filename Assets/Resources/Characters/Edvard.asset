@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5aa553569ce07948a267bba2c72061e, type: 3}
+  m_Name: Edvard
+  m_EditorClassIdentifier: 
+  birthday:
+    year: 0
+    season: 3
+    day: 3
+    hour: 0
+    minute: 0
+  likes:
+  - {fileID: 11400000, guid: 4cf602c78264a1a418923abd9ccd080e, type: 2}
+  dislikes: []
+  prefab: {fileID: 5506674928698615441, guid: c2e57d194f8b319489a1665f6e04208d, type: 3}
+  icon: {fileID: 593826058, guid: eba5a2c562326a947a00109e05cad938, type: 3}
+  onFirstMeet:
+  - speaker: Edvard
+    message: 'Good morning, your face doesn''t ring a bell, are you new? '
+  - speaker: Edvard
+    message: I thought so.
+  - speaker: Edvard
+    message: My name is Edvard, nice to meet you.
+  defaultDialogue:
+  - speaker: Edvard
+    message: In case you didn't know, you can plant the seeds and when they ripen
+      you can use them as ingredients to make food
+  - speaker: Edvard
+    message: 'Although it may not seem like it, I have been living in this village
+      for quite some time. As a merchant, life here is quite quiet, the advantages
+      of staying in this village are more than you can imagine. '
+  - speaker: Edvard
+    message: 'My catalogue is not limited to vegetables and tubers. I also have lead
+      and copper seeds that can be used to improve some of your tools. '
+  likedGiftDialogue:
+  - speaker: Edvard
+    message: I didn't expect you to have such refined taste. Perhaps later on we
+      can talk...
+  dislikedGiftDialogue:
+  - speaker: Edvard
+    message: ...
+  neutralGiftDialogue:
+  - speaker: Edvard
+    message: ...
+  - speaker: Edvard
+    message: Thanks.
+  birthdayLikedGiftDialogue:
+  - speaker: Edvard
+    message: Oh, you remembered! Thank you very much. You have given me confidence.
+  - speaker: Edvard
+    message: "I will tell you my story\u2026"
+  - speaker: Edvard
+    message: ' I grew up in a very luxurious mansion with a very strict family, but
+      my passion was always to fight to make my own money. But my passion was always
+      to struggle to make my own money'
+  - speaker: Edvard
+    message: 'My parents wanted me to be the head of the family. So at the age of
+      10 I ran away and came to this little village, where Eino took me in // And
+      I''ve been training in this trade ever since '
+  - speaker: Edvard
+    message: 'Thank you for listening to me. '
+  birthdayDislikedGiftDialogue:
+  - speaker: Edvard
+    message: "Maybe the Rupileaf appreciate it\u2026"
+  birthdayNeutralGiftDialogue:
+  - speaker: Edvard
+    message: I appreciate that you remembered, but you could have just given me the
+      money....

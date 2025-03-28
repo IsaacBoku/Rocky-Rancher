@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: c45a7c15c09549442b40510c572ecdc4
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: kolbein_PRueba_rig_unity(Clone)
+      parentName: 
+      position: {x: 0, y: 0.43, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: boca
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0.73429716, y: 3.6270244, z: -0.16559432}
+      rotation: {x: -0.000000016432042, y: 0.9266516, z: 0.37592128, w: 0.000000040505228}
+      scale: {x: -1.1096561, y: -1.1096562, z: -1.1096562}
+    - name: bufanda copia
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: 0.16381203, y: 2.8738337, z: -0.03166562}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 48.876114, y: 61.676693, z: 34.82648}
+    - name: Cabeza
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: 0.18990119, y: 3.2699425, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 13.501427, y: 16.458122, z: 16.458122}
+    - name: camiseta
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: 0.1644311, y: 2.4236267, z: -0.012715578}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 60.272633, y: 60.272633, z: 60.272633}
+    - name: ceja der
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0.41666296, y: 4.295133, z: -0.5859546}
+      rotation: {x: -0.697882, y: -0.1138451, z: -0.1138451, w: 0.69788206}
+      scale: {x: 1.7040749, y: 3.0390568, z: 3.1681638}
+    - name: ceja der.001
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0.14980517, y: 0.011890098, z: 0.38173935}
+      rotation: {x: -0.47997835, y: -0.5389341, z: -0.43300685, w: 0.54007024}
+      scale: {x: 1.0436962, y: 1.8613342, z: 0.9546361}
+    - name: ceja der.002
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0.20349178, y: 0.027337478, z: 0.24991883}
+      rotation: {x: -0.47112864, y: -0.54973954, z: -0.4426192, w: 0.5290676}
+      scale: {x: 1.0436962, y: 1.861334, z: 0.9546361}
+    - name: ceja der.003
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0.16108839, y: 0.01636362, z: 0.14166139}
+      rotation: {x: -0.4520607, y: -0.5715434, z: -0.46207723, w: 0.50543433}
+      scale: {x: 1.0436962, y: 1.861334, z: 0.9546361}
+    - name: ceja der.004
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0.14823648, y: 0.010126207, z: -0.12925006}
+      rotation: {x: -0.4860676, y: -0.53122497, z: -0.42616016, w: 0.54765487}
+      scale: {x: 1.0436962, y: 1.8613341, z: 0.9546361}
+    - name: ceja der.005
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0.20646635, y: 0.010126207, z: -0.25134856}
+      rotation: {x: -0.48034307, y: -0.5384788, z: -0.43260223, w: 0.54052424}
+      scale: {x: 1.043696, y: 1.8613342, z: 0.9546361}
+    - name: ceja der.006
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0.15001349, y: 0.010126207, z: -0.36237982}
+      rotation: {x: -0.48034307, y: -0.5384788, z: -0.43260223, w: 0.54052424}
+      scale: {x: 1.043696, y: 1.8613342, z: 0.9546361}
+    - name: ceja izq
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0.41666296, y: 4.295133, z: 0.5771195}
+      rotation: {x: 0.1138451, y: -0.697882, z: 0.69788206, w: 0.11384511}
+      scale: {x: -1.7040749, y: -3.0390568, z: -3.1681638}
+    - name: Cube
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0.2615599, y: 2.6437917, z: -0.5006042}
+      rotation: {x: -0.6985231, y: -0.10984322, z: -0.13180305, w: 0.69471425}
+      scale: {x: 3.749161, y: 19.79984, z: 38.181816}
+    - name: cuerpo
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0, y: 1.934642, z: 0}
+      rotation: {x: -0.70710677, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 55.7486, y: 55.7486, z: 55.7486}
+    - name: nariz
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0.76924634, y: 3.7213466, z: 0}
+      rotation: {x: -0.7060617, y: 0.03842916, z: -0.038429163, w: 0.70606184}
+      scale: {x: 0.43152156, y: 2.235134, z: 2.235134}
+    - name: ojo izq
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0.29136217, y: 3.5810888, z: -0.21454814}
+      rotation: {x: -0.61423916, y: 0.62864953, z: -0.35030034, w: 0.3237279}
+      scale: {x: -99.99999, y: -100.00001, z: -100}
+    - name: ojoo der
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0.29136217, y: 3.5810888, z: 0.21273}
+      rotation: {x: 0.6286495, y: 0.6142393, z: -0.32372788, w: -0.3503002}
+      scale: {x: 99.99999, y: 100, z: 100}
+    - name: oreja der
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: 0.25539964, y: 4.471976, z: -0.5760337}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 20.428202, y: 31.406689, z: 31.406689}
+    - name: oreja der.001
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: 0.25539964, y: 4.471976, z: 0.5679351}
+      rotation: {x: 0.000000030908623, y: 0.7071068, z: -0.7071067, w: -0.000000030908616}
+      scale: {x: -20.428202, y: -31.406689, z: -31.406689}
+    - name: pantalones
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: 0.10616341, y: 1.1523465, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 59.045116, y: 59.045116, z: 59.045116}
+    - name: Torus.002
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: 0.15882102, y: 1.7989856, z: -0.000054350123}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 50.680046, y: 91.68374, z: 66.330864}
+    - name: Torus.003
+      parentName: kolbein_PRueba_rig_unity(Clone)
+      position: {x: -0.33905178, y: 1.790733, z: 0.006569763}
+      rotation: {x: 0.5, y: 0.5, z: -0.5, w: -0.49999997}
+      scale: {x: 24.881012, y: 24.881012, z: 24.881012}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

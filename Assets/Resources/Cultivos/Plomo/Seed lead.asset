@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5575b124cf2a9934890fb7f6ba045bf9, type: 3}
+  m_Name: Seed lead
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Seed lead
+  icon: {fileID: 1931688532, guid: 9fd280e367fad1649a8e5357c3dfca67, type: 3}
+  gameModel: {fileID: 0}
+  dropChance: 0
+  cost: 600
+  equipmentType: 3
+  itemCooldown: 0
+  itemEffects: []
+  itemEffectDescription: The seed of lead grows every 3 days
+  toolType: 0
+  strength: 0
+  agility: 0
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  health: 0
+  armor: 0
+  evasion: 0
+  craftingMaterials: []
+  daysToGrow: 3
+  cropsToYield: {fileID: 11400000, guid: 0575c35fee5879a40be6314aa6827c22, type: 2}
+  seedling: {fileID: 8411464857085287425, guid: facc1529b6b3f0b4c9c35572b03c5340,
+    type: 3}
+  regrowable: 0
+  dayToRegrow: 0

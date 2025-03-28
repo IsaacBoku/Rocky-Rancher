@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5aa553569ce07948a267bba2c72061e, type: 3}
+  m_Name: Sigrid
+  m_EditorClassIdentifier: 
+  birthday:
+    year: 0
+    season: 2
+    day: 18
+    hour: 0
+    minute: 0
+  likes: []
+  dislikes: []
+  prefab: {fileID: 8686643195279148137, guid: 006b49652d663d248b7f4be3fd7b032e, type: 3}
+  icon: {fileID: -1510144717, guid: 5e2afda85df352c428d9d49d26c27ea6, type: 3}
+  onFirstMeet:
+  - speaker: Sigrid
+    message: Oh! So you're the new guy I've heard about. You're slimmer than I imagined.
+  - speaker: Sigrid
+    message: My name is Sigrid, nice to meet you.
+  - speaker: Sigrid
+    message: I am the trainer of this small town. If you need to learn how to defend
+      yourself or get stronger, don't hesitate to join my training sessions.
+  defaultDialogue:
+  - speaker: Sigrid
+    message: Ugh, there's my brother talking about his bullshit again.
+  - speaker: Sigrid
+    message: Can you believe that false rumours reached him about a treasure in the
+      swamp, and without a second thought he went straight there?
+  - speaker: Sigrid
+    message: Can you believe that false rumours reached him about a treasure in the
+      swamp, and without a second thought he went straight there?
+  - speaker: Sigrid
+    message: Good thing I caught him in time and rescued him from the Swamp Girl.
+      The airhead was lured by her melody.
+  - speaker: Sigrid
+    message: 'I always have to save his ass in all his solo adventures...
+
+'
+  likedGiftDialogue:
+  - speaker: Sigrid
+    message: Oooh, you know me well.
+  dislikedGiftDialogue:
+  - speaker: Sigrid
+    message: My brother might like this thing better...
+  neutralGiftDialogue:
+  - speaker: Sigrid
+    message: "Thanks\u2026 I guess\u2026"
+  birthdayLikedGiftDialogue:
+  - speaker: Sigrid
+    message: Dude, I didn't expect you to remember, thank you so much!
+  birthdayDislikedGiftDialogue:
+  - speaker: Sigrid
+    message: Well, thanks... I suppose...
+  birthdayNeutralGiftDialogue:
+  - speaker: Sigrid
+    message: Thanks for remembering.
